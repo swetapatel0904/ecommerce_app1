@@ -1,4 +1,3 @@
-![3](https://github.com/swetapatel0904/ecommerce_app1/assets/153794312/681e19bd-7c9a-4ca5-9125-12bfae7cb5fa)# ecommerce_app1
 
 A new Flutter project.
 
