@@ -74,6 +74,12 @@ class _CartScreenState extends State<CartScreen> {
                                   color: Colors.black),
                             ),
                             Text(
+                              "${cartList[index]['country']}",
+                              style: const TextStyle(
+                                  fontSize: 23,
+                                  color: Colors.black),
+                            ),
+                            Text(
                               "\$${cartList[index]['price']}",
                               style: const TextStyle(
                                   fontSize: 20,
