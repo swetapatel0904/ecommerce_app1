@@ -24,5 +24,6 @@ samples, guidance on mobile development, and a full API reference.
 <img src="https://github.com/swetapatel0904/ecommerce_app1/assets/153794312/3abff714-5f95-4b9c-b903-1fd20c2881bd" height="400px" width="200px"/>
 
 <img src="https://github.com/swetapatel0904/ecommerce_app1/assets/153794312/f4e25a1e-def3-43ff-9049-66080b91bd5f" height="400px" width="200px"/>
-<img src="https://github.com/swetapatel0904/ecommerce_app1/assets/153794312/207be26d-d7ae-4dfe-ba9f-1a5128cb1eb3" height="400px" width="200px"/>
+<img src="https://github.com/swetapatel0904/ecommerce_app1/assets/153794312/d4b25627-588d-4ee6-9e46-f611e81bc3b4" height="400px" width="200px"/>
+
 </p>
